@@ -2,7 +2,7 @@
   "name": "nsitcl.com",
   "version": "0.0.1",
   "scripts":{
-    "start":"node server.js"
+    "start":"node apps.js"
   },
-  "main":"server.js"
+  "main":"apps.js"
 }
